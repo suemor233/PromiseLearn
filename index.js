@@ -1,4 +1,4 @@
-import MyPromise from "./MyPromise2.js";
+import MyPromise from "./MyPromise.js";
 
 let promise = new MyPromise((resolve,reject)=>{
     // reject('Error')
